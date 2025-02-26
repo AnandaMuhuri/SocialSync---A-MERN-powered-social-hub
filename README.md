@@ -74,8 +74,7 @@ The application will run on **http://localhost:3000** (frontend) and **http://lo
 ## 🎯 Contributing
 Feel free to **fork this repository, submit issues, or create pull requests** to improve this project!
 
-## 📄 License
-This project is licensed under the **MIT License**.
+
 
 ---
 🚀 **SocialSync - Connect, Share, and Engage!**
